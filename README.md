@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Copilot Usage Reports
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This project is an example of using the Copilot for Business usage data (downloadable from an organization's settings)
+to generate reports.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+To use this project, you will need to have a Copilot for Business account and have access to the usage data. 
+You can download the reports and put them into the `data`  folder.
